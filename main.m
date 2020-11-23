@@ -5,7 +5,7 @@
 % Date - 23-Nov-2020                                        +
 %                                                           +
 % Submitted by -                                            +
-$ Aditya Rana      (110118002)                              +
+% Aditya Rana      (110118002)                              +
 % Subhankar Biswas (110118084)                              +
 % Vishal Mandarai  (110118100)                              +
 %                                                           +
