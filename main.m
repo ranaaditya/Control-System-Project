@@ -1,3 +1,23 @@
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+% Submitted to :                                            +
+% Prof. Dr.K. Srinivasan                                    +
+%                                                           +
+% Date - 23-Nov-2020                                        +
+%                                                           +
+% Submitted by -                                            +
+$ Aditya Rana      (110118002)                              +
+% Subhankar Biswas (110118084)                              +
+% Vishal Mandarai  (110118100)                              +
+%                                                           +
+% In partial full-fillment of                               +
+% Control-System (ICPC-21) final project                    +
+%                                                           + 
+% Deptartment of Instrumentation and Control Engineering    +
+%                                                           +
+% National Institute of Technology                          +
+% Tiruchirappalli, India                                    +
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 %==========================================================================
 % DC motor Control using lag compensation and PID
 % To customize this code you need to:
