@@ -12,7 +12,7 @@
 % In partial full-fillment of                               +
 % Control-System (ICPC-21) final project                    +
 %                                                           + 
-% Deptartment of Instrumentation and Control Engineering    +
+% Department of Instrumentation and Control Engineering    +
 %                                                           +
 % National Institute of Technology                          +
 % Tiruchirappalli, India                                    +
